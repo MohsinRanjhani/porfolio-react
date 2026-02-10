@@ -11,7 +11,7 @@ import channel2Img from "../assets/Voicepk.jpg";
 import channel3Img from "../assets/freethinkers.png";
 import channel4Img from "../assets/fridaytimes.png";
 import channel5Img from "../assets/News_lens.png";
-import channel6Img from "../assets/Nayadur.png";
+import channel6Img from "../assets/NayaDur.png";
 import Contactform from "../components/Contactform"; 
 import articleImg1 from "../assets/Article.jpg";
 import articleImg2 from "../assets/karsaz.jpg";
